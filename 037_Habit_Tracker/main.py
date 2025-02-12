@@ -12,8 +12,8 @@ option = int(input("Please the required option please:\n1 for adding today's dat
 
 #Creating a user account in pixela
 parameters = {
-    "token":"atish14191419",
-    "username": "atish14",
+    "token": your user-token,
+    "username": your user_name,
     "agreeTermsOfService":"yes",
     "notMinor":"yes"
 }
@@ -23,7 +23,7 @@ parameters = {
 
 
 header = {
-    "X-USER-TOKEN":"atish14191419",
+    "X-USER-TOKEN": your user token,
 }
 
 
